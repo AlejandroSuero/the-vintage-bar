@@ -4,89 +4,17 @@
 
 ### Pallette
 
-<section
-    style="
-        display: grid;
-        gap: 2rem;"
-    >
-    <span
-        style="
-            background-color: #FFFFFF;
-            padding: 12px 6px;
-            color: #0d0d0d;
-            font-weight: bold;"
-        >#FFFFFF</span>
-    <span
-        style="
-            background-color: #F0EFED;
-            padding: 12px 6px;
-            color: #0d0d0d;
-            font-weight: bold;"
-        >#F0EFED</span>
-    <span
-        style="
-            background-color: #000000;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#000000</span>
-    <span
-        style="
-            background-color: #656565;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#656565</span>
-    <span
-        style="
-            background-color: #111111;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#111111</span>
-    <span
-        style="
-            background-color: #00000066;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#00000066</span>
-    <span
-        style="
-            background-color: #00000029;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#00000029</span>
-    <span
-        style="
-            background-color: #F1EFEA;
-            padding: 12px 6px;
-            color: #0d0d0d;
-            font-weight: bold;"
-        >#F1EFEA</span>
-    <span
-        style="
-            background-color: #EAE8E4;
-            padding: 12px 6px;
-            color: #0d0d0d;
-            font-weight: bold;"
-        >#EAE8E4</span>
-    <span
-        style="
-            background-color: #65656503;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#65656503</span>
-    <span
-        style="
-            background-color: #444444;
-            padding: 12px 6px;
-            color: whitesmoke;
-            font-weight: bold;"
-        >#444444</span>
-</section>
+- ![#FFFFFF](https://placehold.co/24x24/FFFFFF/FFFFFF.png) `#FFFFFF`
+- ![#F0EFED](https://placehold.co/24x24/F0EFED/F0EFED.png) `#F0EFED`
+- ![#000000](https://placehold.co/24x24/000000/000000.png) `#000000`
+- ![#656565](https://placehold.co/24x24/656565/656565.png) `#656565`
+- ![#111111](https://placehold.co/24x24/111111/111111.png) `#111111`
+- ![#00000066](https://placehold.co/24x24/999999/999999.png) `#00000066`
+- ![#00000029](https://placehold.co/24x24/d6d6d6/d6d6d6.png) `#00000029`
+- ![#F1EFEA](https://placehold.co/24x24/F1EFEA/F1EFEA.png) `#F1EFEA`
+- ![#EAE8E4](https://placehold.co/24x24/EAE8E4/EAE8E4.png) `#EAE8E4`
+- ![#65656503](https://placehold.co/24x24/fdfdfd/fdfdfd.png) `#65656503`
+- ![#444444](https://placehold.co/24x24/444444/444444.png) `#444444`
 
 ### Typography
 
